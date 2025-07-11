@@ -1,7 +1,7 @@
 # Programacion-02-ejercicios
 Aca pueden subir sus codigos, nombrenlos en base al numero de ejercicios que les toco
 
-# Ejercicio numero 3.
+# Ejercicio numero 3
 
 ```java
 public static void main() {
