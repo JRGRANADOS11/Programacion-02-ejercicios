@@ -3,6 +3,7 @@ Aca pueden subir sus codigos, nombrenlos en base al numero de ejercicios que les
 
 # Ejercicio numero 3.
 
+```java
 public static void main() {
     System.out.println("Numero del 1 al 10");
 
@@ -10,14 +11,16 @@ public static void main() {
         System.out.println(i);
     }
 }
+```
 
 # Ejercicio numero 10
 
-
+```java
 public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("¡Hola mundo!");
     }
 }
 
+```
 
